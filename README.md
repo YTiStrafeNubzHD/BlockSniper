@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/BlockSniper.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/BlockSniper)
+
 # BlockSniper<a href="https://github.com/BlockHorizons/BlockSniper"><img src="https://github.com/BlockHorizons/BlockSniper/blob/master/resources/BlockSniperLogo.png" width="60" height="60" align="right"></a>
 
 An innovative brush world editing tool, made for PocketMine-MP: An MCPE server software written in PHP.
