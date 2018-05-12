@@ -3,7 +3,7 @@ version: 2.3.0
 api: [3.0.0-ALPHA12]
 author: BlockHorizons
 main: BlockHorizons\BlockSniper\Loader
-description: BlockSniper
+description: BlockSniper-Plugin
 load: POSTWORLD
 
 permissions:
